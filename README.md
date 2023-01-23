@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I'm Alexandr Dmitriev</h1>
+<h1 align="center">Hi, I'm Alexandr Dmitriev</h1>
 <h3 align="center">Full-stack developer passionate about web technologies.</h3>
 
 - 👨‍💻 I'm currently working on freelance projects as a Frontend and Full-stack developer
