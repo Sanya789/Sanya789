@@ -1,8 +1,9 @@
-
 <h1 align="center">Welcome, I'm Alexandr Dmitriev</h1>
 <h3 align="center">Full-stack developer passionate about web technologies.</h3>
 
 - 📫 How to reach me **alexandrdmtriev@gmail.com**
+
+- 📄 Know about my experiences on [https://www.linkedin.com/in/alexandr-dmitriev/](https://www.linkedin.com/in/alexandr-dmitriev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
