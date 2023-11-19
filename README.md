@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexandr Dmitriev</h1>
 <h3 align="center">Full-stack developer passionate about web technologies.</h3>
 
-- 👨‍💻 I'm currently working on freelance projects as a Frontend and Full-stack developer
+- 👨‍💻 I'm currently working on resource management application as backend developer
 
 - 📫 How to reach me **alexandrdmtriev@gmail.com**
 
